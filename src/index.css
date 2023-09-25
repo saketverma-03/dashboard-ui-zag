@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .dataTable > tr {
+  @apply border-b-gray-600;
+} */
+
+progress[value].progress-custom {
+  @apply progress;
+}
